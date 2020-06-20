@@ -1,0 +1,327 @@
+{
+  "243275264497418250": [
+    {
+      "silcoon": {
+        "exp": 672,
+        "level": 16,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 93
+          },
+          {
+            "name": "attack",
+            "value": 195
+          },
+          {
+            "name": "defense",
+            "value": 108
+          },
+          {
+            "name": "special-attack",
+            "value": 140
+          },
+          {
+            "name": "special-defense",
+            "value": 229
+          },
+          {
+            "name": "speed",
+            "value": 65
+          }
+        ]
+      }
+    },
+    {
+      "silcoon": {
+        "exp": 172,
+        "level": 10,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 93
+          },
+          {
+            "name": "attack",
+            "value": 195
+          },
+          {
+            "name": "defense",
+            "value": 108
+          },
+          {
+            "name": "special-attack",
+            "value": 140
+          },
+          {
+            "name": "special-defense",
+            "value": 229
+          },
+          {
+            "name": "speed",
+            "value": 65
+          }
+        ]
+      }
+    },
+    {
+      "kingler": {
+        "exp": 666,
+        "level": 45,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 454
+          },
+          {
+            "name": "attack",
+            "value": 240
+          },
+          {
+            "name": "defense",
+            "value": 4340
+          },
+          {
+            "name": "special-attack",
+            "value": 932
+          },
+          {
+            "name": "special-defense",
+            "value": 691
+          },
+          {
+            "name": "speed",
+            "value": 2326
+          }
+        ]
+      }
+    },
+    {
+      "gourgeist-average": {
+        "exp": 273,
+        "level": 45,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 2169
+          },
+          {
+            "name": "attack",
+            "value": 2549
+          },
+          {
+            "name": "defense",
+            "value": 299
+          },
+          {
+            "name": "special-attack",
+            "value": 185
+          },
+          {
+            "name": "special-defense",
+            "value": 1925
+          },
+          {
+            "name": "speed",
+            "value": 333
+          }
+        ]
+      }
+    },
+    {
+      "parasect": {
+        "exp": 42,
+        "level": 3,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 72
+          },
+          {
+            "name": "attack",
+            "value": 105
+          },
+          {
+            "name": "defense",
+            "value": 112
+          },
+          {
+            "name": "special-attack",
+            "value": 107
+          },
+          {
+            "name": "special-defense",
+            "value": 121
+          },
+          {
+            "name": "speed",
+            "value": 41
+          }
+        ]
+      }
+    },
+    {
+      "moltres": {
+        "exp": 561,
+        "level": 30,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 2256
+          },
+          {
+            "name": "attack",
+            "value": 664
+          },
+          {
+            "name": "defense",
+            "value": 146
+          },
+          {
+            "name": "special-attack",
+            "value": 3029
+          },
+          {
+            "name": "special-defense",
+            "value": 940
+          },
+          {
+            "name": "speed",
+            "value": 2225
+          }
+        ]
+      },
+      "exp": 200
+    },
+    {
+      "pignite": {
+        "exp": 146,
+        "level": 32,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 2560
+          },
+          {
+            "name": "attack",
+            "value": 1896
+          },
+          {
+            "name": "defense",
+            "value": 739
+          },
+          {
+            "name": "special-attack",
+            "value": 1487
+          },
+          {
+            "name": "special-defense",
+            "value": 1724
+          },
+          {
+            "name": "speed",
+            "value": 775
+          }
+        ]
+      }
+    },
+    {
+      "volbeat": {
+        "exp": 151,
+        "level": 22,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 796
+          },
+          {
+            "name": "attack",
+            "value": 386
+          },
+          {
+            "name": "defense",
+            "value": 267
+          },
+          {
+            "name": "special-attack",
+            "value": 267
+          },
+          {
+            "name": "special-defense",
+            "value": 857
+          },
+          {
+            "name": "speed",
+            "value": 1884
+          }
+        ]
+      }
+    },
+    {
+      "poliwag": {
+        "exp": 60,
+        "level": 9,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 397
+          },
+          {
+            "name": "attack",
+            "value": 451
+          },
+          {
+            "name": "defense",
+            "value": 294
+          },
+          {
+            "name": "special-attack",
+            "value": 119
+          },
+          {
+            "name": "special-defense",
+            "value": 325
+          },
+          {
+            "name": "speed",
+            "value": 164
+          }
+        ]
+      }
+    }
+  ],
+  "329210485004173315": [
+    {
+      "rapidash": {
+        "exp": 1475,
+        "level": 34,
+        "stats": [
+          {
+            "name": "hp",
+            "value": 695
+          },
+          {
+            "name": "attack",
+            "value": 1594
+          },
+          {
+            "name": "defense",
+            "value": 927
+          },
+          {
+            "name": "special-attack",
+            "value": 2372
+          },
+          {
+            "name": "special-defense",
+            "value": 2265
+          },
+          {
+            "name": "speed",
+            "value": 896
+          }
+        ]
+      }
+    }
+  ]
+}
