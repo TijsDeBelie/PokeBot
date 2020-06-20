@@ -5,6 +5,8 @@ const botconfig = require("./botconfig.json");
 
 const fs = require("fs");
 
+require("dotenv").config();
+
 let { players, pokemon, prefix } = require("./dataStore.js");
 const LevelUpPokemon = require("./LevelUp.js");
 
@@ -92,4 +94,4 @@ client.log = async (content, title, type) => {
   }
 };
 
-client.login(botconfig.token);
+client.login(process.env.token);
